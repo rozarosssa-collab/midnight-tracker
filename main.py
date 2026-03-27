@@ -11,7 +11,7 @@ from apscheduler.schedulers.blocking import BlockingScheduler
 # ─── Config ───────────────────────────────────────────────────────────────────
 YOUTUBE_API_KEY  = os.environ["YOUTUBE_API_KEY"]
 SPREADSHEET_ID   = "1KwkW7DHzDuvmbhNHEeMqdamjelYzQOexfYM2iIO5R7s"
-SHEET_NAME       = "Лист19"
+SHEET_NAME = "midnight script"
 
 CHANNELS = [
     "@babynojamie",
